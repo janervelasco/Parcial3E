@@ -5,7 +5,7 @@ public class LotePapelCarton extends Lote {
     public LotePapelCarton(String codigoLote, String descripcion, int pesoKilos, boolean clasificado) {
         super(codigoLote, descripcion, pesoKilos);
         this.clasificado = clasificado;
-    }
+    } //C
 
     @Override
     public double calcularValor() {
