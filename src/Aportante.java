@@ -1,3 +1,3 @@
-public record Aportante(String identificacion, String nombre, String correo, String number) {
+public record Aportante(String identificacion, String nombre, String correo, String numero) {
 
 }
